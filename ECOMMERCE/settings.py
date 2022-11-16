@@ -28,7 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['ecommerce-source.up.railway.app', '127.0.0.1']
 
-CSRF_TRUSTED_ORIGINS = ['ecommerce-source.up.railway.app','127.0.0.1']
+CSRF_TRUSTED_ORIGINS = ['https://ecommerce-source.up.railway.app','https://127.0.0.1']
 
 # Application definition
 
